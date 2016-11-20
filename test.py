@@ -10,3 +10,4 @@ eight = 8
 str_eight = str(eight)
 int_ten= int(ten)
 print (int_ten)
+ jb gvı byt
