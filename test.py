@@ -10,4 +10,8 @@ eight = 8
 str_eight = str(eight)
 int_ten= int(ten)
 print (int_ten)
- jb gvı byt
+
+five = 5
+twenty_five=5*5
+negative_five=-1*5
+
